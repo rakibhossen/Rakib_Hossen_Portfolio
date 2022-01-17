@@ -33,3 +33,5 @@ a { text-decoration: none;
                     border-image: linear-gradient(blue,cyan);
                     border-left: 7px solid;
                     border-image-slice: 1;}
+footer { text-align: center;
+        margin-top: 200px;}
