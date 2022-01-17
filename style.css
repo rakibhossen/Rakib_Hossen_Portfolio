@@ -12,7 +12,7 @@ h1 { font-size: 50px; }
 img { width: 80%;}
 a { text-decoration: none;
     padding: 10px 40px;
-    background-image: linear-gradient(orange,tomato);
+    background-image: linear-gradient(red,tomato);
     border-radius: 5px;
     color: white;
     font-weight: 700;}
